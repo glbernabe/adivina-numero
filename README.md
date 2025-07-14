@@ -20,4 +20,4 @@ Cuenta con un sistema de vidas (7) y pistas para saber si estás cerca del núme
 
 Puedes ejecutar el juego directamente desde terminal:
 
-python adivina_numero.py
+python Juego.py
